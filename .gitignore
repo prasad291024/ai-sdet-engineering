@@ -1,0 +1,32 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+
+# Test reports
+reports/
+htmlcov/
+.coverage
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal Files 
+CLAUDE.md
+GEMINI.md 
+docs/
+
