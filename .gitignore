@@ -20,13 +20,13 @@ htmlcov/
 # Environment variables / secrets
 .env
 .env.*
+!.env.example
 
 # OS files
 .DS_Store
 Thumbs.db
 
-# Personal Files 
+# Personal / local-only files
 CLAUDE.md
-GEMINI.md 
-docs/
-
+GEMINI.md
+secret_docs/
